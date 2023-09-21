@@ -30,3 +30,5 @@ Convert the REST API from last weeks assignment to GraphQL.
 
 - No authentication and authorization this week. All mutations are done with id properties. So no need to use req.user.
 - Always empty your cats and users after tests.
+![week4-hw-testresult](https://github.com/LassilaJoni/Web2/assets/31948894/d7bbc1db-9b87-47f6-9b54-a6ec99b94ce5)
+
